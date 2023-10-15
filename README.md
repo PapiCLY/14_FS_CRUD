@@ -17,7 +17,7 @@ Core functionality
 Home Page:
 - house navigation to My Exercises and My Calenar pages
 - display logged info from most recent Workout (date of most recent workout)
-- contain link button to New Workout Page
+- contain link button to New Workout Page..
 
 New Workout Page:
 - Dropdown to select a workout
