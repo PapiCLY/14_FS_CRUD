@@ -1,0 +1,17 @@
+
+
+<h1>Exercise List</h1>
+    <ul>
+        {{#each exercises}}
+            <li>
+                <strong>{{title}}</strong>
+                <p>Date: {{date}}</p>
+                <p>Sets: {{sets}}</p>
+                <p>Reps: {{reps}}</p>
+                <p>Weight: {{weight}}</p>
+                <p>RPE: {{rpe}}</p>
+                <p>Bodyweight: {{bodyweight}}</p>
+                <p>User: {{user.name}}</p>
+            </li>
+        {{/each}}
+    </ul>
